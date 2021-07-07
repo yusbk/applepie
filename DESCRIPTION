@@ -19,6 +19,7 @@ Imports:
     httr,
     jsonlite,
     tibble,
+    whoami,
     withr
 Suggests: 
     vcr (>= 0.6.0),
